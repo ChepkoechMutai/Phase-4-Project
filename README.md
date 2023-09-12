@@ -26,7 +26,7 @@ The main objective of this project is to develop a time series model that can pr
 * Data Modeling and Evaluation
 * Conclusion and Recommendations
 
-  # 4.Data Understanding
+# 4.Data Understanding
 
 The data used in this project was provided by researchers at Zillow website. It consists of 14,723 rows and contains a small series of categorical features, as well as a large number of columns, each containing the median value of homes in a zipcode for a certain month. The months range from April 1996 to April 2018. The dataset includes features such as RegionID, RegionName (Zip code), City, State, Metro, CountyName, and SizeRank.
 
