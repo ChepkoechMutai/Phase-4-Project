@@ -1,4 +1,4 @@
-**Predictive Time Series Modeling for Real Estate Investment using Zillow Research Data**
+# Predictive Time Series Modeling for Real Estate Investment using Zillow Research Data
 
 # 1.Introduction
 
