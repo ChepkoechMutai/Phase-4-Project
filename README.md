@@ -50,6 +50,12 @@ The data was modeled using statistical time series models, such as ARIMA and SAR
 
 We concluded that all the zip codes have an encouraging predicted price seeing as they are in the positive,apart from  the 85035 zip code.The investor can therefore decide to invest in zip codes 94804,94590,94601, and 85008 as they have a positive return on investment.
 
+# Non-technical Presentation
+
+To access the slides click on this link:https://docs.google.com/presentation/d/1o0Pupsl7W_-MJifzd2GLz3XIRqhj3p6VBK4Cdd4mCIw/edit#slide=id.g27c62178b6f_1_99
+
+
+
 
 
 
