@@ -32,7 +32,7 @@ The data used in this project was provided by researchers at Zillow website. It 
 
 # 5.Data Preparation
 
-To prepare the data for modeling and exploration, the pd.melt function was applied to transform the dataset from a wide format to a long format, resulting in a dataset with 3,901,595 rows and 11 columns. The data cleaning process involved handling missing values and checking for duplicates.
+To prepare the data for modeling and exploration, the pd.melt function was applied to transform the dataset from a wide format to a long format, resulting in a dataset with 3,901,595 rows and 11 columns. The tidying  process involved handling missing values and checking for duplicates.
 
 # 6.Exploratory Data Analysis
 
